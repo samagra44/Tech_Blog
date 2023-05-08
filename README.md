@@ -21,5 +21,6 @@ For Backend Work :
 3. Servlet
 4. JSP (Java Server Pages) 
 5. JSTL (Java Standard Tag Library) 
+6. MYSQL
 
 Project Preview video - https://www.youtube.com/watch?v=URMQq3XWlSg 
