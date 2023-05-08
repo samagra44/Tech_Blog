@@ -8,4 +8,18 @@ Users can update their profile details.
 There is a admin page where admin have access to edit, delete the user information, also admin can edit and delete the post data and many more.
 The project would be hosted on GitHub and would be open source, allowing contributors to submit pull requests to improve the codebase or add new features. The blog would also be optimized for search engines to increase its visibility and attract more readers.
 
+Programming languages used : 
+For Frontend work :
+1. HTML
+2. CSS
+3. JavaScript
+4. Bootstrap
+
+For Backend Work :
+1. Java 
+2. JDBC (Java Database Connectivity) 
+3. Servlet
+4. JSP (Java Server Pages) 
+5. JSTL (Java Standard Tag Library) 
+
 Project Preview video - https://www.youtube.com/watch?v=URMQq3XWlSg 
